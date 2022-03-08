@@ -1,0 +1,15 @@
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\Projeto-Editor-HTML.exe
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\Projeto-Editor-HTML.deps.json
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\Projeto-Editor-HTML.runtimeconfig.json
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\Projeto-Editor-HTML.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\ref\Projeto-Editor-HTML.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\bin\Debug\net6.0\Projeto-Editor-HTML.pdb
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.csproj.AssemblyReference.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.AssemblyInfoInputs.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.AssemblyInfo.cs
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.csproj.CoreCompileInputs.cache
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\ref\Projeto-Editor-HTML.dll
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.pdb
+D:\.01.CuRsoS PrOgRaMaÇãO\02. Github - Projetos\Projeto-Editor-HTML\obj\Debug\net6.0\Projeto-Editor-HTML.genruntimeconfig.cache
